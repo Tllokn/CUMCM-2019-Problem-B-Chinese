@@ -14,3 +14,10 @@ Try to develop a mathematical model to solve the following problems.
 2. 在现实情形中，队员发力时机和力度不可能做到精确控制，存在一定误差，于是鼓面可能出现倾斜。试建立模型描述队员的发力时机和力度与某一特定时刻的鼓面倾斜角度的关系。设队员人数为8，绳长为1.7m，鼓面初始时刻是水平静止的，初始位置较绳子水平时下降11 cm，表1中给出了队员们的不同发力时机和力度，求0.1 s时鼓面的倾斜角度。
 3. 在现实情形中，根据问题2的模型，你们在问题1中给出的策略是否需要调整？如果需要，如何调整？
 4. 当鼓面发生倾斜时，球跳动方向不再竖直，于是需要队员调整拉绳策略。假设人数为10，绳长为2m，球的反弹高度为60cm，相对于竖直方向产生1度的倾斜角度，且倾斜方向在水平面的投影指向某两位队员之间，与这两位队员的夹角之比为1:2。为了将球调整为竖直状态弹跳，请给出在可精确控制条件下所有队员的发力时机及力度，并分析在现实情形中这种调整策略的实施效果。
+
+### important
+latex is written using VScode with Latex expansion pack, and it fails to encode when opened with other software !!!!!
+It's not the problem of tex file !!!!!!!
+
+latex采用VScode搭载Latex拓展包进行书写，用其他软件打开都会编码失败!!!!!
+并不是tex文件的问题!!!!!!!
